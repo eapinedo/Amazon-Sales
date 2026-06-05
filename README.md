@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2025-red)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Overview
 
