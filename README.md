@@ -97,3 +97,13 @@ Built a dynamic report focusing on 3 Core Views:
 
 **Emilio Pinedo**
 * [LinkedIn Profile](https://linkedin.com/in/emilio-pinedo)
+
+## 📄 License
+
+<div align="center">
+
+MIT License © [Emilio Pinedo](LICENSE)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
