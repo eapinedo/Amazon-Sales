@@ -63,7 +63,7 @@ Built a dynamic report focusing on 3 Core Views:
 
 ## 📊 Dashboard Snapshot
 
-![Dashboard Placeholder](https://github.com/eapinedo/Portfolio/blob/main/Dashboard.png)
+![Dashboard Placeholder](https://github.com/eapinedo/Amazon-Sales/blob/main/Dashboard.png)
 
 **Key Insights:**
 1.  **The "Sweet Spot":** Products discounted between **40-50%** see the highest volume of engagement. Deep discounts (>70%) often correlate with lower ratings (perceived low quality).
@@ -74,7 +74,7 @@ Built a dynamic report focusing on 3 Core Views:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/eapinedo/Portfolio.git](https://github.com/eapinedo/Portfolio.git)
+    git clone [https://github.com/eapinedo/Amazon-Sales.git](https://github.com/eapinedo/Amazon-Sales.git)
     ```
 2.  **Install Python Dependencies**
     ```bash
@@ -92,11 +92,6 @@ Built a dynamic report focusing on 3 Core Views:
 ## 🔮 Future Scope
 * **Cloud Deployment:** Automate the ETL pipeline using **Apache Airflow** or **Azure Data Factory**.
 * **Sentiment Classification:** Use **BERT** or **VADER** to classify review text as Positive/Negative to augment the star rating.
-
-## 👤 Author
-
-**Emilio Pinedo**
-* [LinkedIn Profile](https://linkedin.com/in/emilio-pinedo)
 
 ## 📄 License
 
