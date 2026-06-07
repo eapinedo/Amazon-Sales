@@ -102,7 +102,7 @@ Built a dynamic report focusing on 3 Core Views:
 
 <div align="center">
 
-MIT License © [Emilio Pinedo](LICENSE)
+MIT License © [Emilio Pinedo](LICENSE.txt)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
