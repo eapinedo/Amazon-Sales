@@ -97,7 +97,7 @@ Built a dynamic report focusing on 3 Core Views:
 
 <div align="center">
 
-MIT License © [Emilio Pinedo](LICENSE.txt)
+MIT License © <a href="https://github.com/eapinedo/Amazon-Sales/blob/main/LICENSE.txt">Emilio Pinedo</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
