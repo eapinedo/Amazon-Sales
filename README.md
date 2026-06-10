@@ -1,4 +1,4 @@
-# Amazon Sales & Sentiment Analytics
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sales%20Analytics&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 ## 📖 Overview
 
