@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sales%20Analytics&fontSize=80&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Sales%20and%20Sentiment%20Analytics&fontSize=40&fontAlign=50&animation=fadeIn&fontAlignY=30)
 
 ## 📖 Overview
 
