@@ -89,10 +89,6 @@ Built a dynamic report focusing on 3 Core Views:
 5.  **View Dashboard**
     * Open `dashboard/Amazon Sales Dashboard.pbix` in Power BI Desktop.
 
-## 🔮 Future Scope
-* **Cloud Deployment:** Automate the ETL pipeline using **Apache Airflow** or **Azure Data Factory**.
-* **Sentiment Classification:** Use **BERT** or **VADER** to classify review text as Positive/Negative to augment the star rating.
-
 ## 📄 License
 
 <div align="center">
