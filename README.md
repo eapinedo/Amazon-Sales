@@ -63,7 +63,7 @@ Built a dynamic report focusing on 3 Core Views:
 
 ## 📊 Dashboard Snapshot
 
-<img src="https://github.com/eapinedo/Amazon-Sales/blob/main/Dashboard.png?raw=true" width="800" alt="Data ingestion">
+<img src="https://github.com/eapinedo/Amazon-Sales/blob/main/Dashboard.png" width="800" alt="Data ingestion">
 
 **Key Insights:**
 1.  **Moderate Discounts Drive High Reviews:** The scatter plot reveals that products with the highest number of reviews (200k+) generally feature moderate discounts between 30% and 80%, rather than extreme markdowns.
