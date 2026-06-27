@@ -66,9 +66,9 @@ Built a dynamic report focusing on 3 Core Views:
 <img src="https://github.com/eapinedo/Amazon-Sales/blob/main/Dashboard.png?raw=true" width="800" alt="Data ingestion">
 
 **Key Insights:**
-1.  **The "Sweet Spot":** Products discounted between **40-50%** see the highest volume of engagement. Deep discounts (>70%) often correlate with lower ratings (perceived low quality).
-2.  **Revenue Drivers:** While "Electronics" has the highest volume, "Home & Kitchen" generates more consistent revenue due to higher average unit prices.
-3.  **Price Sensitivity:** There is no strong correlation between high price and high rating, suggesting Amazon customers value "utility" over "premium status."
+1.  **Moderate Discounts Drive High Reviews:** The scatter plot reveals that products with the highest number of reviews (200k+) generally feature moderate discounts between 30% and 80%, rather than extreme markdowns.
+2.  **Electronics Dominate Revenue:** The Electronics category is the overwhelming revenue driver, accounting for 82.29% ($59.18bn) of the total $71.92bn estimated revenue.
+3.  **High Quality Baseline:** Customer satisfaction is consistently strong across the catalog, maintaining a **4.10** average rating with the vast majority of products falling into the "Good (4.0-4.4)" tier.
 
 ## 🚀 How to Run This Project
 
