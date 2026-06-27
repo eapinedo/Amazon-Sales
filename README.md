@@ -81,13 +81,13 @@ Built a dynamic report focusing on 3 Core Views:
     pip install pandas numpy matplotlib seaborn sqlalchemy
     ```
 3.  **Run the Analysis**
-    * Open `src/python_script.ipynb`.
+    * Open **[`python_script.ipynb`](https://github.com/eapinedo/Amazon-Sales/blob/main/python_script.ipynb)**.
     * Run the cells to generate the clean CSV.
 4.  **SQL Setup**
-    * Import `amazon.csv` into SQL Server.
-    * Execute `sql/sales_queries.sql` to generate insights.
+    * Import **[`amazon.csv`](https://github.com/eapinedo/Amazon-Sales/blob/main/amazon.csv)** into SQL Server.
+    * Execute **[`sales_queries.sql`](https://github.com/eapinedo/Amazon-Sales/blob/main/sales_queries.sql)** to generate insights.
 5.  **View Dashboard**
-    * Open `dashboard/Amazon Sales Dashboard.pbix` in Power BI Desktop.
+    * Open **[`Amazon Sales Dashboard.pbix`](https://github.com/eapinedo/Amazon-Sales/blob/main/Amazon%20Sales%20Dashboard.pbix)** in Power BI Desktop.
 
 ## 📄 License
 
