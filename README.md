@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Sales%20and%20Sentiment%20Analytics&fontSize=40&fontAlign=50&animation=fadeIn&fontAlignY=30)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Amazon%20Pricing%20%26amp%3B%20Customer%20Sentiment%20Analytics&fontSize=30&fontAlign=50&animation=fadeIn&fontAlignY=30)
 
 ## 📖 Overview
 
